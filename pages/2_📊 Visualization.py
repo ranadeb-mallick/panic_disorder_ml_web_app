@@ -51,7 +51,7 @@ def get_data(file_name):
     return test_data
 
 
-test_data = get_data('D:/My_Projects/panic_disorder/pages/panic_disorder_dataset_testing.csv')
+test_data = get_data('panic_disorder_dataset_testing.csv')
 st.write(test_data.head(15))
 
 parameter = ['Gender', 'Age', 'Demographics', 'Current Stressors', 'Symptoms', 'Medical History', 'Psychiatric History',
