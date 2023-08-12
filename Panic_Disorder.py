@@ -18,7 +18,7 @@ background-color: rgba(0,0,0,0);
 }
 
 [data-testid="stSidebar"]{
-background-image: url("https://images.unsplash.com/photo-1530903677198-7c9f3577a63e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODF8fHJhaW4lMjBkcm9wfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60");
+background-image: url("https://images.unsplash.com/photo-1691533540643-3111545cd822?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80");
 background-size: cover;
 }
 
