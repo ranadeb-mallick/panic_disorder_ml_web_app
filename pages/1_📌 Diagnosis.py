@@ -174,7 +174,7 @@ with tab2:
 
 with tab3:
     st.header('Music which makes you calm')
-    st.subheader('Smoothing Music')
+    st.subheader('Soothing Music')
     st.video('https://youtu.be/O2K0ptoYpuc=8:15')
     st.markdown(
         "<p style='font-size:5; position:relative; bottom:-250px;'>&hearts; Special thanks to the online content creators </p>",
