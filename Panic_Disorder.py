@@ -66,7 +66,7 @@ st.image("https://www.fabhow.com/wp-content/uploads/2017/08/how-to-stop-a-panic-
 st.markdown("""<p style='text-align: right;'>
             <a href='https://www.fabhow.com/self-improvement/how-to-stop-a-panic-attack' style='color: yellow;'>For details click here
             </a></p>""", unsafe_allow_html=True)
-st.markdown("""<h4 style='color: white;'><u>Rationality of this web-app</u>: - </h4>
+st.markdown("""<h4 style='color: white;'><u>Rationality of this web-application</u>: - </h4>
 <p style='text-align: justify; color: white;'>
 The prevalence of panic disorders and their significant impact on personal well-being and daily functioning 
 underscore the importance of early detection and intervention. However, diagnosing panic disorders can be intricate due to the spontaneous 
