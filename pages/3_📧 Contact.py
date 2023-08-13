@@ -54,7 +54,7 @@ st.markdown("<h1 style='text-align: center; color: white;'>Reach out to me</h1>"
 
 st.markdown("---")
 # st.markdown("Ranadeb Mallick <p>Contact: 7001171498</p> <p>Email address: ranadebm15@gmail.com</p>", unsafe_allow_html=True)
-st.markdown("""<form action="https://formsubmit.co/ranadebm15@email.com" method="POST">
+st.markdown("""<form action="https://formsubmit.co/ranadebm15@gmail.com" method="POST">
      <input type="hidden" name="_captcha" value="false">
      <input type="text" name="name" placeholder="Your Name" required>
      <input type="email" name="email" placeholder="Your email address" required>
