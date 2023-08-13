@@ -83,7 +83,9 @@ users and empower them to seek appropriate help.
 Privacy and accessibility are key considerations in this endeavour. The application will prioritize user privacy by employing robust data 
 security measures to ensure that personal information remains confidential. Additionally, the application's user-friendly interface and the 
 convenience of conducting self-assessments remotely address the barriers that often hinder individuals from seeking professional help.
-This Panic Disorder Diagnosis Application seeks to leverage technology to offer users a means of self-assessment for panic disorders.
+</p>
+<p style='text-align: justify; color: white;'>
+This Application seeks to leverage technology to offer users a means of self-assessment for panic disorders.
 By proactively addressing the diagnostic challenges associated with panic disorders and promoting user-friendly accessibility, the 
 application aims to contribute to early intervention, improved mental health outcomes, and a more informed approach to seeking professional
 treatment.
