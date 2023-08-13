@@ -66,15 +66,20 @@ st.image("https://www.fabhow.com/wp-content/uploads/2017/08/how-to-stop-a-panic-
 st.markdown("""<p style='text-align: right;'>
             <a href='https://www.fabhow.com/self-improvement/how-to-stop-a-panic-attack' style='color: yellow;'>For details click here
             </a></p>""", unsafe_allow_html=True)
-st.markdown("""<h4 style='color: white;'>Rationality of the Project: - </h4>
-<p style='text-align: justify; color: white;'>The prevalence of panic disorders and their significant impact on personal well-being and daily functioning 
+st.markdown("""<h4 style='color: white;'><u>Rationality of this web-app</u>: - </h4>
+<p style='text-align: justify; color: white;'>
+The prevalence of panic disorders and their significant impact on personal well-being and daily functioning 
 underscore the importance of early detection and intervention. However, diagnosing panic disorders can be intricate due to the spontaneous 
 nature of panic attacks and the absence of clear triggers. Moreover, accessing mental health professionals for timely diagnosis can be 
 challenging due to various factors such as availability, stigma, and personal reluctance.
-In response to these challenges, the Panic Disorder Diagnosis Application aims to bridge the gap between mental health assessment and 
+</p>
+<p style='text-align: justify; color: white;'>
+In response to these challenges, this predictive-panic-disorder-ml-web-app aims to bridge the gap between mental health assessment and 
 treatment. By harnessing the power of machine learning algorithms, the application can analyse user-input data and potentially identify 
 subtle patterns that might not be immediately evident to the users themselves. This data-driven approach can provide valuable insights to 
 users and empower them to seek appropriate help.
+</p>
+<p style='text-align: justify; color: white;'>
 Privacy and accessibility are key considerations in this endeavour. The application will prioritize user privacy by employing robust data 
 security measures to ensure that personal information remains confidential. Additionally, the application's user-friendly interface and the 
 convenience of conducting self-assessments remotely address the barriers that often hinder individuals from seeking professional help.
@@ -82,6 +87,8 @@ This Panic Disorder Diagnosis Application seeks to leverage technology to offer 
 By proactively addressing the diagnostic challenges associated with panic disorders and promoting user-friendly accessibility, the 
 application aims to contribute to early intervention, improved mental health outcomes, and a more informed approach to seeking professional
 treatment.
+</p>
+<p style='text-align: justify; color: white;'>
 It's important to acknowledge that while the application aims to provide valuable insights and support, it is not a substitute for 
 professional medical advice. The application should be seen as a tool to assist users in self-assessment and early intervention, but 
 individuals experiencing severe symptoms should still seek guidance from mental health professionals.
